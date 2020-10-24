@@ -6,7 +6,7 @@
 
 ## Summary
 
-An app for ad hoc travellers who wants to choose their vacay destination from places where the sun is shining. Briefly - app shows a weather forecast and when you choose the city, you'll see available acoomodations, upcoming events (e.g. concerts, sport events) and public transportation options as well. You can book your trip via this app. 
+An app for ad hoc travellers who wants to choose their vacay destination from places where the sun is shining. Briefly - app shows a weather forecast and when you choose the city, you'll see e.g. available acoomodations, upcoming events (e.g. concerts, sport events) and public transportation options. You can book your trip via this app. 
 
 
 
@@ -37,40 +37,25 @@ Data for this app comes from different places:
 1. a weather forecast from e.g. FMI or Foreca
 2. Available accommodation data from e.g. Booking.com, Hotels.com
 3. Upcoming events from e.g. municipalities webpages, meteli.net
-
-
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+4. Transportation options from VR, Finnair, etc.
 
 
 
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+As this would be a platform which gatheres data from other platforms, it needs to be integrated to them. I don't know if that is possible or not.  
 
 
 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-To be honest, I don't know nothing about coding. I'm more commercial-oriented person. If someone thinks that this would be a good idea or project to move on, and not so difficult to do, please contact. 
+To be honest, I know nothing about coding, my strengths are on the commercial side. If someone thinks that this would be a good project to move forward, feel free to contact us- I'll be happy to discuss this further.
 
 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+
