@@ -44,7 +44,7 @@ Data for this app comes from different places:
 
 ## Challenges
 
-As this would be a platform which gatheres data from other platforms, it needs to be integrated to them. I don't know if that is possible or not.  
+As this would be a platform which gatheres data from other platforms, it needs to be integrated to them. I don't know if it is possible..  
 
 
 
