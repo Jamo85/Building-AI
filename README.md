@@ -15,6 +15,8 @@ An app for ad hoc travellers who wants to choose their vacay destination from pl
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
+During this pandemic Finnish people have made a lot of small trips in Finland where they have browsed our beautiful country. 
+
 This is how you make a list, if you need one:
 * problem 1
 * problem 2
@@ -25,7 +27,7 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Everything should work through an app. User interface needs to be easy to use, not too many choises, ads, etc. since the target group will be local ad hoc travellers. 
 
 
 
@@ -44,7 +46,7 @@ Data for this app comes from different places:
 
 ## Challenges
 
-As this would be a platform which gatheres data from other platforms, it needs to be integrated to them. I don't know if it is possible..  
+As this would be an app which gatheres data from other platforms, it needs to be integrated to them. I don't know if it is possible.. and I don't know if someone already has done a similar app. 
 
 
 
