@@ -68,6 +68,8 @@ What does your project _not_ solve? Which limitations and ethical considerations
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
+To be honest, I don't know nothing about coding. I'm more commercial-oriented person. If someone thinks that this would be a good idea or project to move on, and not so difficult to do, please contact. 
+
 
 ## Acknowledgments
 
