@@ -11,20 +11,6 @@ An app for ad hoc travellers who wants to choose their vacay destination from pl
 
 
 
-## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-During this pandemic Finnish people have made a lot of small trips in Finland where they have browsed our beautiful country. 
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
-
-
-
 ## How is it used?
 
 Everything should work through an app. User interface needs to be easy to use, not too many choises, ads, etc. since the target group will be local ad hoc travellers. 
